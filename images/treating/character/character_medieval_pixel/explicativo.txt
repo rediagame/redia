@@ -1,0 +1,26 @@
+CHARACTER SHEET 1
+
+This image is arranged as follows:
+
+Row:
+
+1-standing front
+2-standing back
+3-standing right
+4-standing left
+5-walking forward
+6-walking backward
+7-walking right
+8-walking left
+
+CHARACTER SHEET 2
+
+This image is arranged as follows:
+
+Row:
+
+1-attacking front
+2-attacking right
+3-attacking left
+4-attacking back
+5-dying
